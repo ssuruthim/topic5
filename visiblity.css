@@ -1,0 +1,21 @@
+.a{
+    visibility:visible;
+}
+.b{
+    visibility: hidden;
+}
+table, td {
+    border: 1px solid black;
+  }
+  
+  tr.collapse {
+    visibility: collapse;
+  }
+  .d
+  {
+    visibility: hidden;
+  }
+  .f
+  {
+    visibility:inherit;
+  }
